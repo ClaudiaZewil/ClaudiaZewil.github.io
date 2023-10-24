@@ -230,24 +230,24 @@ footer p {margin-right: 3px;}
     object-fit: contain;
     background-size: contain;
 }
-#icon-website{background-image: url(img/icon/web.png);}
-#icon-website:hover{background-image: url(img/icon/web-active.png);}
-#icon-fb{background-image: url(img/icon/facebook.png);}
-#icon-fb:hover{background-image: url(img/icon/facebook-active.png);}
-#icon-tw{background-image: url(img/icon/twitter.png);}
+#icon-website{background-image: url(mamaafrica_img/icon/web.png);}
+#icon-website:hover{background-image: url(mamaafrica_img/icon/web-active.png);}
+#icon-fb{background-image: url(mamaafrica_img/icon/facebook.png);}
+#icon-fb:hover{background-image: url(mamaafrica_img/icon/facebook-active.png);}
+#icon-tw{background-image: url(mamaafrica_img/icon/twitter.png);}
 #icon-ig{background-image: url(img/icon/instagram.png);}
-.icon-yt{background-image: url(img/icon/youtube.png);}
-#icon-wiki{background-image: url(img/icon/wikipedia.png);}
-#icon-britannica{background-image: url(img/icon/britannica.png);}
-#icon-treccani{background-image: url(img/icon/treccani.png);}
-#icon-spotify{background-image: url(img/icon/spotify.png);}
-#icon-tw:hover{background-image: url(img/icon/twitter-active.png);}
-#icon-ig:hover{background-image: url(img/icon/instagram-active.png);}
-.icon-yt:hover{background-image: url(img/icon/youtube-active.png);}
-#icon-wiki:hover{background-image: url(img/icon/wikipedia-active.png);}
-#icon-britannica:hover{background-image: url(img/icon/britannica-active.png);}
-#icon-treccani:hover{background-image: url(img/icon/treccani-active.png);}
-#icon-spotify:hover{background-image: url(img/icon/spotify-active.png);}
+.icon-yt{background-image: url(mamaafrica_img/icon/youtube.png);}
+#icon-wiki{background-image: url(mamaafrica_img/icon/wikipedia.png);}
+#icon-britannica{background-image: url(mamaafrica_img/icon/britannica.png);}
+#icon-treccani{background-image: url(mamaafrica_img/icon/treccani.png);}
+#icon-spotify{background-image: url(mamaafrica_img/icon/spotify.png);}
+#icon-tw:hover{background-image: url(mamaafrica_img/icon/twitter-active.png);}
+#icon-ig:hover{background-image: url(mamaafrica_img/icon/instagram-active.png);}
+.icon-yt:hover{background-image: url(mamaafrica_img/icon/youtube-active.png);}
+#icon-wiki:hover{background-image: url(mamaafrica_img/icon/wikipedia-active.png);}
+#icon-britannica:hover{background-image: url(mamaafrica_img/icon/britannica-active.png);}
+#icon-treccani:hover{background-image: url(mamaafrica_img/icon/treccani-active.png);}
+#icon-spotify:hover{background-image: url(mamaafrica_img/icon/spotify-active.png);}
 
 /*strutture generali*/
 .box-spacer {height: 100px;}
@@ -278,7 +278,7 @@ footer p {margin-right: 3px;}
 /*home*/
 .header-image {
     height: 500px;
-    background-image: url(img/home-header.jpg);
+    background-image: url(mamaafrica_img/home-header.jpg);
     background-size: cover;
     background-position: center top;
 }
@@ -290,15 +290,15 @@ footer p {margin-right: 3px;}
 }
 #home-spacer1 {
     height: 327px;
-    background-image: url(img/spacer/boundaries-shape-down-orange.png), 
-    url(img/spacer/boundaries-triangle-up-white.png), 
-    url(img/bg/verde1.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-shape-down-orange.png), 
+    url(mamaafrica_img/spacer/boundaries-triangle-up-white.png), 
+    url(mamaafrica_img/bg/verde1.jpg);
 }
 #home-spacer2 {
     height: 950px;
-    background-image: url(img/spacer/boundaries-triangle-down-white.png), 
-    url(img/spacer/boundaries-triangle-up-red.png), 
-    url(img/bg/blu1.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-triangle-down-white.png), 
+    url(mamaafrica_img/spacer/boundaries-triangle-up-red.png), 
+    url(mamaafrica_img/bg/blu1.jpg);
     position: relative;
 }
 #home-topic1 .container .text-box {
@@ -331,7 +331,7 @@ footer p {margin-right: 3px;}
 }
 #home-topic2 .img-box {
     height: 400px;
-    background-image: url("img/home-portrait.jpg");
+    background-image: url("mamaafrica_img/home-portrait.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -375,8 +375,8 @@ h1.subtitle {
 /*gallery*/
 #gallery-spacer1 {
     height: 700px;
-    background-image: url(img/spacer/boundaries-shape-up-white.png), 
-    url(img/bg/blu1.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-shape-up-white.png), 
+    url(mamaafrica_img/bg/blu1.jpg);
     background-position: bottom left, center;
     background-repeat: repeat-x, no-repeat;
     background-size: auto, cover;
@@ -399,15 +399,15 @@ h1.subtitle {
 }
 #gallery-spacer2 {
     height: 300px;
-    background-image: url(img/spacer/boundaries-triangle-down-white.png),
-        url(img/spacer/boundaries-triangle-up-orange.png),
-        url(img/bg/verde5.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-triangle-down-white.png),
+        url(mamaafrica_img/spacer/boundaries-triangle-up-orange.png),
+        url(mamaafrica_img/bg/verde5.jpg);
 }
 #gallery-spacer3 {
     height: 300px;
-    background-image: url(img/spacer/boundaries-shape-down-orange.png),
-        url(img/spacer/boundaries-triangle-up-red.png),
-        url(img/bg/blu7.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-shape-down-orange.png),
+        url(mamaafrica_img/spacer/boundaries-triangle-up-red.png),
+        url(mamaafrica_img/bg/blu7.jpg);
 }
 #gallery-topic2 .img-box, #gallery-topic3 .img-box {
     margin-left: 20px;
@@ -427,11 +427,11 @@ h1.subtitle {
 }
 #gallery-topic2 .gallery-first-row .img-box:first-child {
     width: 43%;
-    background-image: url(img/gallery-A1.jpg);
+    background-image: url(mamaafrica_img/gallery-A1.jpg);
 }
 #gallery-topic2 .gallery-first-row .img-box:last-child {
     width: 61%;
-    background-image: url(img/gallery-A2.jpg);
+    background-image: url(mamaafrica_img/gallery-A2.jpg);
     background-position: left bottom !important;
 }
 #gallery-topic2 .gallery-second-row .img-box {
@@ -439,16 +439,16 @@ h1.subtitle {
     width: 25%;
 }
 #gallery-topic2 .gallery-second-row .img-box:first-child {
-    background-image: url(img/gallery-A3.jpg);
+    background-image: url(mamaafrica_img/gallery-A3.jpg);
 }
 #gallery-topic2 .gallery-second-row .img-box:nth-child(2) {
-    background-image: url(img/gallery-A4.jpg);
+    background-image: url(mamaafrica_img/gallery-A4.jpg);
 }
 #gallery-topic2 .gallery-second-row .img-box:nth-child(3) {
-    background-image: url(img/gallery-A5.jpg);
+    background-image: url(mamaafrica_img/gallery-A5.jpg);
 }
 #gallery-topic2 .gallery-second-row .img-box:last-child {
-    background-image: url(img/gallery-A6.jpg);
+    background-image: url(mamaafrica_img/gallery-A6.jpg);
 }
 #gallery-topic3 .img-box {
     height: 570px;
@@ -464,28 +464,28 @@ h1.subtitle {
     width: 50%;
 }
 #gallery-topic3 .gallery-first-row .img-box:first-child {
-    background-image: url(img/gallery-B1.jpg);
+    background-image: url(mamaafrica_img/gallery-B1.jpg);
 }
 #gallery-topic3 .gallery-first-row .img-box:last-child {
-    background-image: url(img/gallery-B2.jpg);
+    background-image: url(mamaafrica_img/gallery-B2.jpg);
 }
 #gallery-topic3 .gallery-second-row .img-box:first-child {
-    background-image: url(img/gallery-B3.jpg);
+    background-image: url(mamaafrica_img/gallery-B3.jpg);
 }
 #gallery-topic3 .gallery-second-row .img-box:last-child {
-    background-image: url(img/gallery-B4.jpg);
+    background-image: url(mamaafrica_img/gallery-B4.jpg);
 }
 #gallery-topic3 .gallery-third-row .img-box:first-child {
-    background-image: url(img/gallery-B5.jpg);
+    background-image: url(mamaafrica_img/gallery-B5.jpg);
 }
 #gallery-topic3 .gallery-third-row .img-box:last-child {
-    background-image: url(img/gallery-B6.jpg);
+    background-image: url(mamaafrica_img/gallery-B6.jpg);
 }
 /*personaggio*/
 #personaggio-spacer1 {
         height: 1800px;
-        background-image: url(img/spacer/boundaries-shape-up-orange.png),
-            url(img/bg/blu2.jpg);
+        background-image: url(mamaafrica_img/spacer/boundaries-shape-up-orange.png),
+            url(mamaafrica_img/bg/blu2.jpg);
         background-position: bottom left, center;
         background-repeat: repeat-x, no-repeat;
         background-size: auto, cover;
@@ -494,14 +494,14 @@ h1.subtitle {
 
 #personaggio-spacer2 {
     height: 2000px;
-    background-image: url(img/spacer/boundaries-triangle-down-orange.png),
-        url(img/spacer/boundaries-shape-up-orange.png),
-        url(img/bg/verde2.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-triangle-down-orange.png),
+        url(mamaafrica_img/spacer/boundaries-shape-up-orange.png),
+        url(mamaafrica_img/bg/verde2.jpg);
 }
 #personaggio-spacer3 {
     height: 850px;
-    background-image: url(img/spacer/boundaries-triangle-down-orange.png),
-        url(img/bg/verde3.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-triangle-down-orange.png),
+        url(mamaafrica_img/bg/verde3.jpg);
 }
 #personaggio-topic1 h1 {
     margin: 25px auto;
@@ -534,13 +534,13 @@ h1.subtitle {
     height: 345px;
 }
 #personaggio-topic1 .topic-content:nth-child(2) .img-box {
-    background-image: url(img/personaggio-A1.jpg);
+    background-image: url(mamaafrica_img/personaggio-A1.jpg);
 }
 #personaggio-topic1 .topic-content:nth-child(3) .img-box {
-    background-image: url(img/personaggio-A2.jpg);
+    background-image: url(mamaafrica_img/personaggio-A2.jpg);
 }
 #personaggio-topic1 .topic-content:nth-child(4) .img-box {
-    background-image: url(img/personaggio-A3.jpg);
+    background-image: url(mamaafrica_img/personaggio-A3.jpg);
 }
 #personaggio-topic2 .topic-content, 
 #personaggio-topic2 .description, 
@@ -623,7 +623,7 @@ h1.subtitle {
 /*canzoni*/
 .header-canzoni {
     height: 500px;;
-    background-image: url(img/canzoni-header.jpg);
+    background-image: url(mamaafrica_img/canzoni-header.jpg);
     background-size: cover;
 }
 #canzoni-topic1 div {
@@ -646,27 +646,27 @@ h1.subtitle {
 }
 #canzoni-spacer1 {
     height: 350px;
-    background-image: url(img/spacer/boundaries-triangle-down-white.png),
-        url(img/spacer/boundaries-triangle-up-orange.png),
-        url(img/bg/verde4.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-triangle-down-white.png),
+        url(mamaafrica_img/spacer/boundaries-triangle-up-orange.png),
+        url(mamaafrica_img/bg/verde4.jpg);
     background-position: top left, bottom center, bottom left;
 }
 #canzoni-spacer2 {
     height: 1600px;
-    background-image: url(img/spacer/boundaries-triangle-down-orange.png),
-        url(img/spacer/boundaries-shape-up-orange.png),
-        url(img/bg/blu3.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-triangle-down-orange.png),
+        url(mamaafrica_img/spacer/boundaries-shape-up-orange.png),
+        urlmamaafrica_(img/bg/blu3.jpg);
 }
 #canzoni-spacer3 {
     height: 1750px;
-    background-image: url(img/spacer/boundaries-shape-down-orange.png),
-        url(img/spacer/boundaries-triangle-up-orange.png),
-        url(img/bg/verde5.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-shape-down-orange.png),
+        url(mamaafrica_img/spacer/boundaries-triangle-up-orange.png),
+        url(mamaafrica_img/bg/verde5.jpg);
 }
 #canzoni-spacer4 {
     height: 1350px;
-    background-image: url(img/spacer/boundaries-triangle-down-orange.png),
-        url(img/bg/blu4.jpg);
+    background-image: url(mamaafrica_img/spacer/boundaries-triangle-down-orange.png),
+        url(mamaafrica_img/bg/blu4.jpg);
     background-repeat: repeat-x, no-repeat;
     background-size: auto, cover;
     background-attachment: scroll, fixed;
